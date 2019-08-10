@@ -8,6 +8,10 @@ import java.io.*;
 import java.util.*;
 
 /**
+ * BINGO BANGO BONGO
+ */
+
+/**
  * Tamworth Two (2.4.1)
  *
  * given a 10x10 grid and the initial location of a cow and a farmer as well as immovable obstacles
